@@ -1,0 +1,13 @@
+Added			.testenv
+Modified		changelog.txt
+Modified		framework
+Modified		functions.php
+Modified		includes/admin/listing-single.php
+Modified		includes/functions.php
+Modified		includes/payments
+Modified		includes/recaptcha
+Modified		includes/search-index
+Modified		languages/homepress.pot
+Modified		style-rtl.css
+Modified		style.css
+Modified		theme-framework
